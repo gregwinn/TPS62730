@@ -11,7 +11,8 @@ In DC/DC operation mode the device provides a fixed output voltage to the system
 http://www.ti.com/product/tps62730
 
 
-== Install
+Install
+========
 
  * Download or Clone the repo
  * Move the TI-TPS6273X.lbr file into your Eagle Library folder.
